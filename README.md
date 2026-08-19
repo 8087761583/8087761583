@@ -1,64 +1,54 @@
-# 👋 Hello, I'm Kanchan Ugale
+# Hi 👋, I'm Kanchan Ugale!
 
-### 💻 Full Stack Developer | DSA Enthusiast
+### I'm a Full Stack Developer and DSA Enthusiast.
 
-> I build practical software applications, explore computer science
-> concepts, and continuously improve my problem-solving skills through
-> Data Structures & Algorithms.
+## About Me
 
----
+### 🎓 I'm a B.E. Electronics & Telecommunication Engineering student
 
-## 🎯 Areas of Interest
-
-- 💻 Full-Stack Web Development
-- 🤖 AI-powered Applications
-- ⚡ Real-Time Systems
-- 🧩 Data Structures & Algorithms
-- 🔐 Web Security
-- 🛠️ Software Engineering
+- 👀 I'm interested in Full-Stack Development, AI-powered applications, Real-Time Systems, and Web Security.
+- 🌱 I'm currently strengthening my Data Structures & Algorithms and software engineering skills.
+- 💻 I enjoy building practical projects that solve real-world problems.
+- 🤝 I'm interested in collaborating on meaningful open-source projects.
+- 🌐 More about me on my [**Portfolio Website**](https://portfolio-theta-two-nwskti0rkb.vercel.app/)
 
 ---
 
-## 🌐 Portfolio
+### 🛠️ My Skills
 
-🚀 **[View My Portfolio](https://portfolio-theta-two-nwskti0rkb.vercel.app/)**
+#### Languages
 
----
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,python,js" />
+</p>
 
-## 🛠️ Skills
+#### Frontend
 
-### Languages
-`C++` `Python` `JavaScript` `SQL`
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
+</p>
 
-### Frontend
-`HTML` `CSS` `React.js` `Tailwind CSS`
+#### Backend
 
-### Backend
-`Node.js` `Express.js`
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
 
-### Database
-`MongoDB` `MySQL`
+#### Database
 
-### Other
-`Socket.IO` `AI APIs` `Chrome Extension APIs`
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
 
----
+#### Tools & Technologies
 
-## 🚀 Featured Projects
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
 
-### 🤖 InterviewPrep AI
-AI-powered interview preparation platform with mock interviews,
-DSA/core-subject practice, and performance analytics.
+#### Other
 
-### ⚡ SyncStock
-Real-time inventory management platform with synchronized
-multi-user stock updates and inventory alerts.
-
-### 🛡️ SafeBrowse
-Browser security extension designed to identify potentially
-suspicious websites and warn users about unsafe browsing activity.
-
----
+`Socket.IO` • `AI APIs` • `Chrome Extension APIs`
 
 ## 📚 Currently Learning
 
