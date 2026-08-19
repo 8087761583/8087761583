@@ -1,16 +1,71 @@
-## Hi there 👋
+# 👋 Hello, I'm Kanchan Ugale
 
-<!--
-**8087761583/8087761583** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Full Stack Developer | DSA Enthusiast
 
-Here are some ideas to get you started:
+> I build practical software applications, explore computer science
+> concepts, and continuously improve my problem-solving skills through
+> Data Structures & Algorithms.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🎯 Areas of Interest
+
+- 💻 Full-Stack Web Development
+- 🤖 AI-powered Applications
+- ⚡ Real-Time Systems
+- 🧩 Data Structures & Algorithms
+- 🔐 Web Security
+- 🛠️ Software Engineering
+
+---
+
+## 🌐 Portfolio
+
+🚀 **[View My Portfolio](https://portfolio-theta-two-nwskti0rkb.vercel.app/)**
+
+---
+
+## 🛠️ Skills
+
+### Languages
+`C++` `Python` `JavaScript` `SQL`
+
+### Frontend
+`HTML` `CSS` `React.js` `Tailwind CSS`
+
+### Backend
+`Node.js` `Express.js`
+
+### Database
+`MongoDB` `MySQL`
+
+### Other
+`Socket.IO` `AI APIs` `Chrome Extension APIs`
+
+---
+
+## 🚀 Featured Projects
+
+### 🤖 InterviewPrep AI
+AI-powered interview preparation platform with mock interviews,
+DSA/core-subject practice, and performance analytics.
+
+### ⚡ SyncStock
+Real-time inventory management platform with synchronized
+multi-user stock updates and inventory alerts.
+
+### 🛡️ SafeBrowse
+Browser security extension designed to identify potentially
+suspicious websites and warn users about unsafe browsing activity.
+
+---
+
+## 📚 Currently Learning
+
+- Data Structures & Algorithms
+- Software Engineering Concepts
+- System Design Fundamentals
+
+---
+
+⭐ Feel free to explore my repositories and projects!
